@@ -1,0 +1,10 @@
+wandb:
+wandb: Plotting RF.
+wandb: Logged feature importances.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb: Logged class proportions.
+wandb: WARNING This function only supports binary classification at the moment and therefore expects labels to be binary. Skipping calibration curve.
+wandb: Logged calibration curve.
+wandb: Logged roc curve.
+wandb: Logged precision-recall curve.

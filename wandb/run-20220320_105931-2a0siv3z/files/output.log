@@ -1,0 +1,47 @@
+wandb:
+wandb: Plotting decision_tree.
+wandb: Logged feature importances.
+wandb:
+wandb: Plotting decision_tree.
+wandb: Logged feature importances.
+wandb:
+wandb: Plotting decision_tree.
+wandb: Logged feature importances.
+wandb:
+wandb: Plotting decision_tree.
+wandb: Logged feature importances.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb:
+wandb: Plotting decision_tree.
+wandb: Logged feature importances.
+wandb:
+wandb: Plotting decision_tree.
+wandb: Logged feature importances.
+wandb:
+wandb: Plotting decision_tree.
+wandb: Logged feature importances.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+(15000,) (5000,) (26,)
+<class 'pandas.core.series.Series'> <class 'tuple'> <class 'tuple'>
+<class 'method'>
+<class 'numpy.ndarray'>
+wandb:
+wandb: Plotting decision_tree.
+wandb: Logged feature importances.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb:
+wandb: Plotting decision_tree.
+wandb: Logged feature importances.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb: Logged class proportions.
+wandb: WARNING This function only supports binary classification at the moment and therefore expects labels to be binary. Skipping calibration curve.
+wandb: Logged calibration curve.
+wandb: WARNING wandb.plots.* functions are deprecated and will be removed in a future release. Please use wandb.plot.* instead.
+wandb: Logged roc curve.
+wandb: Logged precision-recall curve.
+no null values found
+no null values found

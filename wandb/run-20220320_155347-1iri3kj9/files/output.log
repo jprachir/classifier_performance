@@ -1,0 +1,19 @@
+
+training_time in seconds 0.8027999401092529
+accuracy is 0.9518
+training_time in seconds 0.18098998069763184
+training_time in seconds 0.026000022888183594
+accuracy is 0.9518
+wandb:
+wandb: Plotting KNN.
+wandb: WARNING could not find any of attributes feature_importances_, feature_log_prob_, coef_ on classifier. Cannot plot feature importances.
+wandb: Logged feature importances.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb: Logged class proportions.
+wandb: WARNING This function only supports binary classification at the moment and therefore expects labels to be binary. Skipping calibration curve.
+wandb: Logged calibration curve.
+wandb: Logged roc curve.
+wandb: Logged precision-recall curve.
+training_time in seconds 5.839483737945557
+RF Accuracy: 0.9596
