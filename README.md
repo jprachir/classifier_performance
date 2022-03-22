@@ -9,4 +9,4 @@ In this assignment I am training different classifiers and evaluating with certa
 
 # How to run this code
 1. Run **classifier_performance.ipynb** which has every classifier running.
-2. Please read report for visualization of performance and other details.
+2. Please read report **7118-c3.pdf** for visualization of performance and other details.
